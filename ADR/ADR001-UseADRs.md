@@ -12,13 +12,7 @@ In order to achieve that goal:
 
 ## Decision
 
-We will document every architecture-level decision for Arachne and its
-core modules with an
-[Architecture Decision Record](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions). These
-are a well structured, relatively lightweight way to capture
-architectural proposals. They can serve as an artifact for discussion,
-and remain as an enduring record of the context and motivation of past
-decisions.
+We will document every architecture-level decision for the applications and its core modules with an [Architecture Decision Record](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions). These are a well structured, relatively lightweight way to capture architectural proposals. They can serve as an artifact for discussion, and remain as an enduring record of the context and motivation of past decisions.
 
 The workflow will be:
 
