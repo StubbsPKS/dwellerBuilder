@@ -12,19 +12,10 @@ In order to achieve that goal:
 
 ## Decision
 
-We will document every architecture-level decision for the applications and its core modules with an [Architecture Decision Record](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions). These are a well structured, relatively lightweight way to capture architectural proposals. They can serve as an artifact for discussion, and remain as an enduring record of the context and motivation of past decisions.
-
-The workflow will be:
-
-1. A developer creates an ADR document outlining an approach for a particular question or problem. The ADR has an initial status of "proposed."
-1. The developers and steering group discuss the ADR. During this period, the ADR should be updated to reflect additional context, concerns raised, and proposed changes.
-1. Once consensus is reached, ADR can be transitioned to either an "accepted" or "rejected" state.
-1. Only after an ADR is accepted should implementing code be committed to the master branch of the relevant project/module.
-1. If a decision is revisited and a different conclusion is reached, a new ADR should be created documenting the context and rationale for the change. The new ADR should reference the old one, and once the new one is accepted, the old one should (in its "status" section) be updated to point to the new one. The old ADR should not be removed or otherwise modified except for the annotation pointing to the new ADR.
 
 ## Status
 
-Proposed
+Proposed by Mat Miehling 08/27/18
 
 ## Consequences
 
