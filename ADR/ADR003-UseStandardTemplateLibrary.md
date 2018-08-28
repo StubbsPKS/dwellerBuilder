@@ -9,7 +9,7 @@ Using the STL as a wrapper for common functionality will greatly speed up our ab
 
 ## Status
 
-Proposed by <Name Goes Here> XX/YY/ZZZ
+Proposed by Mat Miehling 08/27/2018
 
 ## Consequences
 
